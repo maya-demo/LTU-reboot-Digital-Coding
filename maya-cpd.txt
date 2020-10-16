@@ -1,1 +1,19 @@
-Maya is giving an example;
+Module / Session - date​
+
+​
+
+1.3. - 13/10/2020​
+
+​
+
+Reflection​
+
+​
+
+// Your reflection goes here​
+
+​
+
+In todays session we were introduced to git/github we were shown a quick demo on how the advantages of using VS code. We installed the extnesion into the vs code. We have done an introductary demonsytration of how to commit chnages in files to a pero that we cloned onto our machine. I wish I could attend the session life, but catching up in my own speed it has its benefits too. Regardless of delivery method I enjoy it and hoping for it all to sink in nicely over the weekend. 
+
+​
