@@ -1,0 +1,43 @@
+body {
+    background-image: linear-gradient(to bottom right,#ddd4c7,#5a6571)
+}
+h1 {
+    background:#ddd4c8;
+    color: #252f32;
+    padding: 30px;
+    text-align: center;
+}
+img {
+    max-width: 300px;
+}
+ol {
+    width: 300px;
+    margin: auto;
+    border: 1px double #5a6571;
+    color: white;
+
+}
+
+ul {
+width: 300px;
+margin: auto;
+border: 2px double #5a6571;
+color: white;
+
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+}
