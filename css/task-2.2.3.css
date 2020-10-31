@@ -4,6 +4,9 @@ p {
     font-size: 22px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+p em{
+color:yellow;
+}
 
 ol{
 font-size: 16px;
