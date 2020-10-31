@@ -17,3 +17,8 @@ Reflection​
 In todays session we were introduced to git/github we were shown a quick demo on how the advantages of using VS code. We installed the extnesion into the vs code. We have done an introductary demonsytration of how to commit chnages in files to a pero that we cloned onto our machine. I wish I could attend the session life, but catching up in my own speed it has its benefits too. Regardless of delivery method I enjoy it and hoping for it all to sink in nicely over the weekend. 
 
 ​
+Module 2. Session 6
+
+Reflection 
+
+In todays session we have been practicing more of the CSS and learnt about single id and classes. We were able to pracitce it on the few tasks.
