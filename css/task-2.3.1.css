@@ -1,0 +1,46 @@
+#header {
+    color: yellow;
+    font-size: 25px;
+    font-weight: 200;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main p {
+    color: teal;
+    font-size: 35px;
+    font-weight: 200;
+    font-style: normal;
+}
+.main footer {
+    text-align-last: center;
+    font-size: 12px;
+    font-style: italic;
+    border: 10px dotted black;
+    padding: 15px;
+    background: pink;
+    background-clip: padding-box;    
+}
+.Continous {
+    color:blue;
+    font-size: 22px;
+    font-style: normal;
+    text-align: center;
+}
+#paragraph {
+    color: black;
+    font-size: 40px;
+    font-weight: 100;
+    font-style: italic;
+    text-align-last: center;
+}
+.side {
+    font-size: 35px;
+    text-align: right;
+}
+
+#sidebar {
+    color: teal;
+    font-style: italic;
+    text-align: right;
+
+}
