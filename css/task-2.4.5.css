@@ -1,0 +1,16 @@
+.sidebar, .main{
+  border: 3px solid green;
+  width: 400px;
+  background-color: grey;
+  padding: 10px;
+  text-align: center;
+  margin-top: 50px;
+  color:white;
+}
+.sidebar{
+    float: right;
+}   
+.main{
+    float: left;
+
+}
