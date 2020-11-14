@@ -1,9 +1,9 @@
-var priceOfBeer = 5;
-var priceOfPizza = 9.5;
-var pct = "3%";
+var preTip = 25.99
+var tipPercentage = 3;
+var percentageOfPreTip = (preTip + tipPercentage)/100;
 
-var totalBill = " Your total bill is"  (priceOfBeer + priceOfPizza)* pct;
-pct= parseFloat (pct) /100;
+var totalPricePlusTip = preTip + percentageOfPreTip;
 
-console.log(totalBill);
-// total bill is $35.4- does not come up correctly 
+document.write("$" + totalPricePlusTip.toFixed(2));
+
+
