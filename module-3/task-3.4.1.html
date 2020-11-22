@@ -4,14 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Task 3.4.1</title>
+
+    <style>
+        div {
+            float: left;
+            margin: 25px 10px;
+            padding: 1em;
+            max-width: 100%;
+            border: 1px solid green;
+
+
+        }
+
+        header {
+
+            margin-bottom: 1em;
+        }
+
+    </style>
 </head>
 <body>
 
 
      <script> 
+
         for (let counter= 1; counter <=12; counter++) {
 
-            console.log(counter * 7);
+            document.write('<div>'); //open div tag
+            document.write(`<header> ${counter} times table </header>`);
+
+            for ( let counter2= 1; counter2 <=12; counter2++) {
+                //document.write(counter * counter2 + '=' + counter + ' * ' + counter2 + '<br>');
+                document.write(`${counter} * ${counter2} = ${counter * counter2}<br>`);
+
+            }
 
         }
 
@@ -19,6 +45,7 @@
     </script>
     
     <!--counter is a number number is multipied by -->
+
 
 </body>
 </html>
